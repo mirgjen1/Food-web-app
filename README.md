@@ -1,4 +1,4 @@
-# FoodieShare / RecipeFinder (Change to your App Name)
+#  RecipeFinder 
 
 A modern, responsive web application designed to help users discover new recipes, manage their digital cookbook, and plan meals based on ingredients they already have in their fridge.
 
